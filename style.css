@@ -1,0 +1,50 @@
+body {
+  background-color: #ffee93;
+  text-align: center;
+  margin: 0;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.TopContainer {
+  background-color: #ffb4b4;
+position: relative;
+padding: 0;
+
+}
+
+h1 {
+  color: #822659;
+  margin: 0;
+  padding-top: 100px;
+}
+
+h2 {
+  color: #822659;
+
+}
+h3 {
+  color: #822659;
+}
+
+h5 {
+  color: #822659;
+}
+
+
+
+.cloud {
+  position: absolute;
+  right: 40px;
+  top: 5px;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0;
+  border-width: thick;
+  border-color: #4a503d;
+  width: 5%;
+}
+.profile {
+  padding-top: 50px;
+}
